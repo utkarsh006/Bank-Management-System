@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/94545831/169559784-79c6f526-4a20-4b7c-8e26-739b96688472.png)
+*I Worked on this Project with [Nishkarsh Saxena](https://github.com/nishkarsh800)*
 
 # Bank-Management-System
 - This Project is made using C++ and displays OOPS and its concepts, Functions, Classes &amp; File Handling. 
